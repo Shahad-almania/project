@@ -1,0 +1,42 @@
+body
+{
+    
+    background-color:#d0e0e1;
+    background-image: url("background-image.png");
+}
+img
+{
+    display:inline;
+    float:left;
+    
+}
+p
+{
+    display:inline-block;
+    color: rgb(59, 59, 79);   
+    float:left;
+    margin-left: 20px;
+} 
+table,td {
+    text-align: center;
+    border: 1px solid rgb(59, 56, 56) ;
+    margin: 20px;
+    width: 97%;
+
+  }
+  
+ input[type=text] {
+  width:50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  
+}
+input[type=submit] {
+    background-color: #ce3838;
+    color: white;
+  }
+
+form{
+
+}
